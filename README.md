@@ -5,5 +5,6 @@ I'm using the following Node modules:
 - body-parser
 - ejs
 - mongoose
-- mongoose-encryption
 - dotenv
+
+I was using mongoose-encryption before, but now I am using MD5 hashing.
