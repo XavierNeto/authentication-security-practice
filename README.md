@@ -6,5 +6,6 @@ I'm using the following Node modules:
 - ejs
 - mongoose
 - dotenv
+- bcrypt
 
-I was using mongoose-encryption before, but now I am using MD5 hashing.
+I was using mongoose-encryption and MD5 before, but now I am using bcrypt to salting and hashing.
